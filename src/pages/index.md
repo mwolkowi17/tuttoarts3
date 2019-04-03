@@ -7,7 +7,7 @@ meta_description: >-
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Agencja multimedialna - video, animacja, interactive develoment
+heading: Agencja multimedialna - video, animacja, interactive development
 description: >-
  Tutto Arts & Media to studio kreatywne, zajmujące się filmem i animacją oraz tworzeniem interaktywnych aplikacji multimedialnych.
 offerings:
