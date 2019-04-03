@@ -1,6 +1,6 @@
 ---
 templateKey: pricing-page
-title: Pricing
+title: Klienci
 meta_title: Pricing | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
@@ -9,11 +9,8 @@ meta_description: >-
   consectetur purus sit amet fermentum.
 pricing:
   description: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta justo justo, 
-    non semper odio cursus in. Curabitur ligula tortor, tristique non odio nec, imperdiet 
-    mattis leo. Vivamus aliquam rhoncus tortor vitae convallis. Aliquam non dui nibh. Nam 
-    a velit at enim sagittis pellentesque.
-  heading: Monthly subscriptions
+    Naszymi klientami byli-
+  heading: Pracowaliśmy dla...
   plans:
     - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
       items:

@@ -1,6 +1,6 @@
 import React from 'react'
 import Helmet from 'react-helmet'
-import Pricing from '../Pricing'
+
 import PropTypes from 'prop-types'
 
 const PricingPageTemplate = ({
@@ -38,8 +38,26 @@ const PricingPageTemplate = ({
                 <h2 className='has-text-weight-semibold is-size-2'>
                   {pricing.heading}
                 </h2>
-                <p className='is-size-5'>{pricing.description}</p>
-                <Pricing data={pricing.plans} />
+                <div>
+                  <ul>
+                    <li>EMI Music Classic</li>
+                    <li>Outside Music</li>
+                    <li>Magic Records</li>
+                    <li>Universal Music Poland</li>
+                    <li>>Vichy</li>
+                    <li>TPminikanie.pl</li>
+                    <li>Wydawnictwo Operon</li>
+                    <li>Hotel Odyssey</li>
+                    <li>Polski Chor Kameralny</li>
+                    <li>Tv Religia</li>
+                    <li>Tv4</li>
+                    <li>TVP</li>
+                    <li>Polbank</li>
+                    <li>Bre Bank</li>
+                    <li>Ministerstwo Środowiska</li>
+                    <li>Centrum Nauki Kopernik</li>
+                  </ul>
+                </div>
               </div>
             </div>
           </div>

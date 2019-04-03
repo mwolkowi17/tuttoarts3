@@ -1,60 +1,30 @@
 ---
 templateKey: 'home-page'
-title: Gatsby Starter Business
+title: Tutto Arts & Media - modern multimedia solutions
 meta_title: Home | Gatsby Starter Business
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
-heading: Lorem ipsum dolor sit amet
+heading: Agencja multimedialna - video, animacja, interactive develoment
 description: >-
-  Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur,
-  adipisci velit...
+ Tutto Arts & Media to studio kreatywne, zajmujące się filmem i animacją oraz tworzeniem interaktywnych aplikacji multimedialnych.
 offerings:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/donald-duck-498512_640.jpg
       text: >
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
-        sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
-        molestie sapien ornare cursus. Praesent eget volutpat est. Proin at 
-        sagittis ex. Duis quis dui magna. Nullam urna purus, blandit vitae tincidunt ut, 
-        scelerisque eu sem. Etiam porttitor elit eget mi luctus, vitae blandit enim pretium. 
-        Aenean nec hendrerit leo, a bibendum magna. In hac habitasse platea dictumst. 
-        Suspendisse sapien magna, vestibulum non vehicula id, pellentesque in ante. Nullam 
-        sed auctor tellus. Sed ipsum sem, dapibus nec eros in, feugiat sagittis mi. 
-        Nullam et dui interdum, varius nibh eu, efficitur metus.
-    - image: /img/coffee-gear.png
+        Jesteśmy grupą ludzi od lat zawodowo związanych z mediami, z telewizją, filmem, prasą. Kiedyś każde z nas pracowało samodzielnie, dla różnych stacji telewizyjnych, agencji reklamowych, instytucji państwowych...narzekaliśmy, że jesteśmy zależni, że mamy złych szefów, że robimy głupie projekty, programy...narzekaliśmy, narzekaliśmy, narzekaliśmy...i pewnego wieczoru, powiedzieliśmy ... Dość! Jeśli już musimy wrócić do pracy, to na własnych zasadach...tego wieczoru narodziło się Tutto Arts & Media...od tamtej chwili żyjemy tak jak chcemy...czy jest łatwiej?...chyba nie..czy nie narzekamy?... czasem tak... ale przynajmniej to co robimy, dzieje się na naszych własnych zasadach, bez twórczych kompromisów, a nasi klienci chyba tą bezkompromisowość lubią.
+    - image: /img/camera-1149041_640.jpg
       text: >
-        Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
-        ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
-        neque id mauris accumsan, nec imperdiet justo eleifend. Nulla viverra, ipsum 
-        sit amet interdum pharetra, felis lorem sollicitudin felis, vehicula finibus 
-        enim nunc facilisis sapien. Donec nulla nisi, dictum quis nibh et, euismod 
-        semper eros. Praesent nunc tortor, consequat eu justo ac, dictum viverra enim. 
-        Etiam sed dui dapibus mauris congue facilisis. Nulla convallis, lectus vel 
-        vehicula interdum, turpis nunc aliquet sem, ac iaculis ligula mauris id tortor. 
-        Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
-    - image: /img/tutorials.png
+        W szczególny sposób koncentrujemy się na produkcji filmów, animacji oraz innych form multimedianych na potrzeby nowych mediów - Internetu,urządzeń mobilnych. Ta nowa technologia wymusza na twórcach stosowanie zupełnie innego podejścia do opowiadania za pomocą obrazu niż w przypadku tradycyjnych mediów. Narracja transmedialna coraz częściej zastępuje tradycyjny liniowy sposób opowiadania historii. Odbiorca coraz bardziej przyzwyczajony jest do interakcji. 
+        Tempo opowiadania ulega przyspieszeniu. Jednocześnie taki sposób prezentacji treści nie może wiązać się z pogorszeniem się jakości przekazu. Przed takimi właśnie wyzwaniami stajemy i staramy się im sprostać.
+    - image: /img/smartphone-407108_640.jpg
       text: >
-        Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
-        pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
-        pharetra orci, ut malesuada nisl. Aliquam erat volutpat. Curabitur egestas eros tincidunt, 
-        scelerisque lectus ac, congue turpis. Fusce egestas sit amet elit et fringilla. Aliquam 
-        erat volutpat. Vivamus ultrices venenatis maximus. Donec volutpat vitae quam at fringilla. 
-        Sed luctus lacus vel tempus posuere. Ut suscipit auctor tortor. Phasellus leo dui, elementum 
-        non sollicitudin eget, porta vehicula odio. Sed mollis, metus sit amet porttitor vehicula, 
-        quam augue pretium erat, at commodo nisl tellus non risus.
-    - image: /img/meeting-space.png
+        Tworzymy animacje 2d i 3d.Pomysł - od niego zaczynamy. Nie boimy sie wyzwań, wręcz odwrotnie - te nas dopingują do stworzenia czegoś wyjątkowego i oryginalnego, a jednocześnie mającego spełnić Twoje oczekiwania.Bo do każdego projektu podchodzimy indywidualnie. Nasi ilustratorzy i graficy stworzą każdą postać, “wyczarują” każdy fikcyjny element, a nasi animatorzy “ożywią” stworzone obrazki. Każdy etap prac jest konsultowany - od scenariusza, do szkicu postaci/elementów, kolorystykę, poprzez storyboardy/animatiki, wybór muzyki, lektora, aż do finalnego efektu. 
+    - image: /img/film-2205325_640.jpg
       text: >
-        Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
-        sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
-        venenatis molestie ut mi. Duis vel libero ac lectus cursus tempus. Nullam in dictum felis. 
-        Nam sed laoreet turpis. Sed pretium urna consequat lorem tincidunt, ac scelerisque nisi 
-        sodales. Cras tristique laoreet tempor. Mauris vitae dolor eu mauris malesuada cursus. 
-        Praesent elit lectus, iaculis vel odio vitae, bibendum auctor lacus. Suspendisse potenti. 
-        In tempor, massa quis euismod convallis, felis elit sodales urna, at aliquet mi elit auctor 
-        risus.
+        Tworzymy filmy dokumentalne i popularnonaukowe oraz aplikacje mutimedialne, które poruszają problemy dotyczące młodych ludzi i otaczającego ich świata (z zakresu profilaktyki uzależnień, tematyki społecznej oraz edukacji globalnej). Przy realizacji naszych produkcji  współpracujemy z gronem osób, zajmujących się na codzień edukacją i komunikacją społeczną. Nasze filmy – poza przekazywaniem treści – uczą, intrygują, wyzwalają w widzach pokłady wyobraźni, pobudzają do dyskusji. Aplikacje multimedialne oprócz treści wizualnych, zawierają elementy interaktywne wymagające od odbiorców zaangażowania intelektualnego .
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
