@@ -1,7 +1,7 @@
 ---
 templateKey: 'home-page'
 title: Tutto Arts & Media - modern multimedia solutions
-meta_title: Home | Gatsby Starter Business
+meta_title: Tutto Arts & Media
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

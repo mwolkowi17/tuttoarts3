@@ -1,7 +1,7 @@
 ---
 templateKey: about-page
 title: O Nas
-meta_title: About Us | Gatsby Starter Business
+meta_title: Tutto Arts & Media
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
